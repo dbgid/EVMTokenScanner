@@ -20,7 +20,7 @@ python multichain.py -c <chainID> -w <file of list wallet address>
 # Info
 This is first version, that currently just have a three EVM chain like: <strong>ETHEREUM, BINANCE SMART CHAIN and Polygon</strong>
 
-this repository using grabing method, may if there in official website in thier element website.
+this repository using grabing method, may if there in official website in thier element website update,
 this repository can't work and need to be update.
 
 # Feature
